@@ -41,5 +41,7 @@ IDE terminal:
 ## Resources
 Documentation: https://flask.palletsprojects.com/en/2.0.x/quickstart/
 
+## Contact
+
 Any questions, feel free to contact me 😄
 Email : ZKONG002@e.ntu.edu.sg
