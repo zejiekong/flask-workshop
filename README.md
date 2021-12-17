@@ -1,4 +1,4 @@
-# flask-workshop
+# Flask Workshop
 
 ## Requirements
 
@@ -6,3 +6,5 @@
 * IDE : Vscode (recommended) , Pycharm ...
 * Packages : Flask
 
+In command prompt,
+`pip3 install flask`
