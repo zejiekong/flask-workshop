@@ -36,5 +36,4 @@ IDE terminal:
        Use a production WSGI server instead.
      * Debug mode: off
      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-    127.0.0.1 - - [17/Dec/2021 13:56:43] "GET / HTTP/1.1" 200 -
-    127.0.0.1 - - [17/Dec/2021 13:56:44] "GET /favicon.ico HTTP/1.1" 404 -
+
