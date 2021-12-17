@@ -26,6 +26,7 @@ In command prompt,
 2.) In Browser, search `localhost:5000`
 
 Browser: 
+
 ![image](https://user-images.githubusercontent.com/66476775/146496508-8fb652d8-e35d-4f90-ad8c-e46d85d3739c.png)
 
 IDE terminal:
