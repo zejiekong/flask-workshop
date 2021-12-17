@@ -40,6 +40,7 @@ IDE terminal:
 
 ## Resources
 Documentation: https://flask.palletsprojects.com/en/2.0.x/quickstart/
+Pythonanywhere: https://help.pythonanywhere.com/pages/Flask/
 
 ## Contact
 
