@@ -1,4 +1,4 @@
-# Flask Workshop
+# Flask Workshop DV3DP
 
 ## Requirements
 
@@ -38,3 +38,6 @@ IDE terminal:
      * Debug mode: off
      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
+
+Any questions, feel free to contact me 😄
+Email : ZKONG002@e.ntu.edu.sg
