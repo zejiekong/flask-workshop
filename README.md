@@ -1,2 +1,8 @@
 # flask-workshop
-Repo to store workshop materials
+
+## Requirements
+
+* Python 3.6 ++ 
+* IDE : Vscode (recommended) , Pycharm ...
+* Packages : Flask
+
