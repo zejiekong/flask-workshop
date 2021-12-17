@@ -11,12 +11,12 @@ In command prompt,
 
 ## Pre-workshop Test
 
-`from flask import Flask
+`from flask import Flask`
 
-app = Flask(__name__)
+`app = Flask(__name__)`
 
-@app.route("/")
+`@app.route("/")`
 
-def hello_world():
+`def hello_world():`
 
-    return "<p>Hello, World!</p>" `
+    `return "<p>Hello, World!</p>" `
