@@ -3,11 +3,14 @@
 ## Requirements
 
 * Python 3.6 ++ 
-* IDE : Vscode (recommended) , Pycharm ... , Repl.it
+* IDE : Vscode (recommended) , Pycharm ... , Repl.it (online)
 * Packages : Flask
 
 In command prompt,
-`pip3 install flask`
+`pip3 install flask` 
+
+** For Repl.it **
+https://replit.com/talk/learn/Flask-Tutorial-Part-1-the-basics/26272
 
 ## Pre-workshop Test
 
@@ -22,6 +25,12 @@ In command prompt,
     def hello_world():
 
         return "<p>Hello, World!</p>" 
+    
+    if __name__ == "__main__":
+        app.run() 
+
+
+Use __app.run(host='0.0.0.0')__ (for Repl.it)
 
 2.) In Browser, search `localhost:5000`
 
