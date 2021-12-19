@@ -2,13 +2,8 @@ from flask import Flask, request,render_template,redirect,url_for
 import json
 
 app = Flask(__name__)
-# @app.route("/")
-# def func():
-#     return "<p>Hello, World!</p>"
 
-# @app.route("/<name>")
-# def name(name):
-#     return f"Hello, {{name}} !"
+# --------------- Exercise -------------------
 Info = None
 
 @app.route("/",methods=["GET","POST"])
@@ -45,6 +40,7 @@ def User(user):
 def intu():
     return "Succesfully logged in !!!"
 
-
 if __name__ == "__main__":
     app.run()
+
+
