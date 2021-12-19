@@ -3,7 +3,7 @@
 ## Requirements
 
 * Python 3.6 ++ 
-* IDE : Vscode (recommended) , Pycharm ...
+* IDE : Vscode (recommended) , Pycharm ... , Repl.it
 * Packages : Flask
 
 In command prompt,
