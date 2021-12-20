@@ -3,8 +3,8 @@
     <head>
         <title>{{user}}</title>
     </head>
-    <body>
-        <form action="/{{user}}" method="post">
+    <body id="body">
+        <form action="{{url_for('User')}}" method="post">
             <label for="username">Username: </label><br>
             <input type="text" id="username" name="username"/><br>
             <label for="pwd">Password: </label><br>
